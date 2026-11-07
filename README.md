@@ -44,4 +44,4 @@ Pode ser que seja necessário instalar drivers para conexão USB com notebook/co
 
 ## Estrutura física
 
-A estufa foi erguida foi montada com as peças de montagem da Brink Mobil. Coleção Brink Robótica – Laboratório de Educação Tecnológica – Guia de Montagem /José Rosni Solek; Silvana do Rocio Zilli; Simone de Oliveira Leitão. Ensino Fundamental – 4º ano página 50 (Projeto estufa) ISBN nº 978-65-87758-01-5
+A estufa erguida foi montada com as peças da Brink Mobil. Coleção Brink Robótica – Laboratório de Educação Tecnológica – Guia de Montagem /José Rosni Solek; Silvana do Rocio Zilli; Simone de Oliveira Leitão. Ensino Fundamental – 4º ano página 50 (Projeto estufa) ISBN nº 978-65-87758-01-5
