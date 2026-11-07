@@ -11,11 +11,12 @@ O projeto foi desenvolvido com os componentes Fischertechnik disponíveis. Como 
 
 ## Componentes necessários
 
-- BT Smart Controller - [código 161944](https://www.fischertechnik.de/en/products/spare-parts/electronics/161944-bt-smart-controller-red)
-- Motor 9V - [código 137096](https://www.fischertechnik.de/en/products/spare-parts/electronics/137096-motor-xs-9v-black)
-- Fototransistor - [código 36134](https://www.fischertechnik.de/en/products/spare-parts/electronics/36134-photo-transistor-assembled-yellow)
-- Suporte bateria - [código 135719](https://www.fischertechnik.de/en/products/spare-parts/electronics/135719-battery-holder-9v-red)
-- Pilha 9V 
-- Fonte de luz ou led
-- Notebook/Laptop/Computador (MAC, Windows ou Linux) ou celular/smartphone (Android ou iOS)
-- Conexão bluetooth ou cabo usb para BT Smart Controller
+- (Qntd: 1) BT Smart Controller - [código 161944](https://www.fischertechnik.de/en/products/spare-parts/electronics/161944-bt-smart-controller-red)
+- (Qntd: 1) Motor 9V - [código 137096](https://www.fischertechnik.de/en/products/spare-parts/electronics/137096-motor-xs-9v-black)
+- (Qntd: 1) Fototransistor - [código 36134](https://www.fischertechnik.de/en/products/spare-parts/electronics/36134-photo-transistor-assembled-yellow)
+- (Qntd: 1) Suporte bateria - [código 135719](https://www.fischertechnik.de/en/products/spare-parts/electronics/135719-battery-holder-9v-red)
+- (Qntd: 3) Cabo duplo - [código 203847](https://www.fischertechnik.de/en/products/spare-parts/203847-cable-bundle-stem-coding-pro)
+- (Qntd: 1) Pilha 9V 
+- (Qntd: 1) Fonte de luz ou led para ligar/desligar na direção do Fototransistor
+- (Qntd: 1) Notebook/Laptop/Computador (MAC, Windows ou Linux) ou celular/smartphone (Android ou iOS)
+- (Qntd: 1) Cabo usb para BT Smart Controller ou conexão bluetooth do Notebook/Smartphone
