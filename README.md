@@ -18,5 +18,5 @@ O projeto foi desenvolvido com os componentes Fischertechnik disponíveis. Como 
 - Cabo duplo - [código 203847](https://www.fischertechnik.de/en/products/spare-parts/203847-cable-bundle-stem-coding-pro) (Qntd: 3) 
 - Pilha 9V (Qntd: 1) 
 - Fonte de luz ou led para ligar/desligar na direção do Fototransistor (Qntd: 1)
-- Notebook/Laptop/Computador (MAC, Windows ou Linux) ou celular/smartphone (Android ou iOS)(Qntd: 1) 
+- Notebook/Laptop/Computador (MAC, Windows ou Linux) ou celular/smartphone (Android ou iOS) (Qntd: 1) 
 - Cabo usb para BT Smart Controller ou conexão bluetooth do Notebook/Smartphone (Qntd: 1) 
