@@ -41,3 +41,7 @@ Pode ser que seja necessário instalar drivers para conexão USB com notebook/co
 - [Driver USB para Windows 32 bits (MSI, 6 MB)](https://www.fischertechnik.de/-/media/fischertechnik/fite/service/downloads/robotics/usbdriverwin32.ashx)
 - [Driver USB para Windows 64 bits (MSI, 6 MB)](https://www.fischertechnik.de/-/media/fischertechnik/fite/service/downloads/robotics/usbdriverwin64.ashx)
 - [Driver USB (ZIP, 11 MB)](https://www.fischertechnik.de/-/media/fischertechnik/fite/service/downloads/robotics/bt-smart-controller/document/usbdriverbtsmart-all-ft-controller-2017-06-16.ashx)
+
+## Estrutura física
+
+A estufa foi erguida foi montada com as peças de montagem da Brink Mobil. Coleção Brink Robótica – Laboratório de Educação Tecnológica – Guia de Montagem /José Rosni Solek; Silvana do Rocio Zilli; Simone de Oliveira Leitão. Ensino Fundamental – 4º ano página 50 (Projeto estufa) ISBN nº 978-65-87758-01-5
