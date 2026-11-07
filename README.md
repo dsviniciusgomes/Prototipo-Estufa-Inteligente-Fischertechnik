@@ -7,7 +7,9 @@ Um LED simula a incidência de luz solar, enquanto um fototransistor identifica 
 ![Rascunho do projeto](imagens/rascunho%20projeto.png)
 
 ## Observações
-O projeto foi desenvolvido com os componentes Fischertechnik disponíveis. Como não tínhamos um sensor de temperatura, optamos pelo uso do fototransistor para simular o controle da luminosidade. Ressaltamos que, em uma estufa inteligente real, o monitoramento da temperatura também é essencial.
+*O foco desse projeto está na lógica, código e configuração dos componentes de hardware, a montagem da estrutura física da estufa com as vigas, eixo de rotação e engrenagem não é explicitamente descrita aqui. Na seção "Estrutura física" oriento onde encontrar uma solução.
+
+**O projeto foi desenvolvido com os componentes Fischertechnik disponíveis. Como não tínhamos um sensor de temperatura, optamos pelo uso do fototransistor para simular o controle da luminosidade. Ressaltamos que, em uma estufa inteligente real, o monitoramento da temperatura também é essencial.
 
 ## O que o protótipo faz?
 O programa desenvolvido no Robo Pro Coding, quando está em execução, atribui a uma variável chamada "estado" o valor inicial 0, semanticamente, signfica que a cortina está abaixada. Após isso, o programa entra em looping infinito e alterna o valor da variável "estado" para 1 se for capturado luminosidade, o que signfica que a cortina está levantada.
