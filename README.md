@@ -5,3 +5,17 @@ O projeto ilustra, de forma prática, como a integração entre sensores e atuad
 Um LED simula a incidência de luz solar, enquanto um fototransistor identifica a luminosidade do ambiente. Quando a luz é detectada, o sistema aciona um motor que abre a cortina, permitindo a entrada do vento para circulação de ar e refrescar o ambiente. Quando a luminosidade deixa de ser identificada, o motor é acionado novamente para fechar a persiana.
 
 ![Rascunho do projeto](imagens/rascunho%20projeto.png)
+
+## Observações
+O projeto foi desenvolvido com os componentes Fischertechnik disponíveis. Como não tínhamos um sensor de temperatura, optamos pelo uso do fototransistor para simular o controle da luminosidade. Ressaltamos que, em uma estufa inteligente real, o monitoramento da temperatura também é essencial.
+
+## Componentes necessários
+
+- BT Smart Controller - [código 161944](https://www.fischertechnik.de/en/products/spare-parts/electronics/161944-bt-smart-controller-red)
+- Motor 9V - [código 137096](https://www.fischertechnik.de/en/products/spare-parts/electronics/137096-motor-xs-9v-black)
+- Fototransistor - [código 36134](https://www.fischertechnik.de/en/products/spare-parts/electronics/36134-photo-transistor-assembled-yellow)
+- Suporte bateria - [código 135719](https://www.fischertechnik.de/en/products/spare-parts/electronics/135719-battery-holder-9v-red)
+- Pilha 9V 
+- Fonte de luz ou led
+- Notebook/Laptop/Computador (MAC, Windows ou Linux) ou celular/smartphone (Android ou iOS)
+- Conexão bluetooth ou cabo usb para BT Smart Controller
