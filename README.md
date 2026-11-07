@@ -7,7 +7,7 @@ Um LED simula a incidência de luz solar, enquanto um fototransistor identifica 
 ![Rascunho do projeto](imagens/rascunho%20projeto.png)
 
 ## Observações
-*O foco desse projeto está na lógica, código e configuração dos componentes de hardware, a montagem da estrutura física da estufa com as vigas, eixo de rotação e engrenagem não é explicitamente descrita aqui. Na seção "Estrutura física" oriento onde encontrar uma solução.
+*O foco deste projeto está na lógica de funcionamento, no código e na configuração dos componentes de hardware. A montagem física da estufa, incluindo vigas, eixo de rotação e engrenagens, não é detalhada neste documento. Na seção "Estrutura", são apresentadas orientações e referências para auxiliar na construção dessa estrutura.
 
 **O projeto foi desenvolvido com os componentes Fischertechnik disponíveis. Como não tínhamos um sensor de temperatura, optamos pelo uso do fototransistor para simular o controle da luminosidade. Ressaltamos que, em uma estufa inteligente real, o monitoramento da temperatura também é essencial.
 
@@ -42,6 +42,11 @@ Pode ser que seja necessário instalar drivers para conexão USB com notebook/co
 - [Driver USB para Windows 64 bits (MSI, 6 MB)](https://www.fischertechnik.de/-/media/fischertechnik/fite/service/downloads/robotics/usbdriverwin64.ashx)
 - [Driver USB (ZIP, 11 MB)](https://www.fischertechnik.de/-/media/fischertechnik/fite/service/downloads/robotics/bt-smart-controller/document/usbdriverbtsmart-all-ft-controller-2017-06-16.ashx)
 
-## Estrutura física
+## Estrutura
 
-A estufa erguida foi montada com as peças da Brink Mobil. Coleção Brink Robótica – Laboratório de Educação Tecnológica – Guia de Montagem /José Rosni Solek; Silvana do Rocio Zilli; Simone de Oliveira Leitão. Ensino Fundamental – 4º ano página 50 (Projeto estufa) ISBN nº 978-65-87758-01-5
+A imagem do rascunho apresenta uma estrutura retangular construída com peças de montagem da Coleção Brink Robótica, inspirada no livro Ensino Fundamental – 4º ano, página 50 (Projeto Estufa), ISBN nº 978-65-87758-01-5.
+
+Recomenda-se a leitura do material como referência, especialmente para compreender a montagem do eixo de rotação. Entretanto, não é obrigatório reproduzir o mesmo formato de estrutura, sendo livre a escolha da montagem, desde que os componentes estejam devidamente conectados e o código esteja em execução.
+
+Atenção: o eixo de rotação conectado ao motor deve possuir um pedaço de plástico fixado, funcionando como um mecanismo de enrolamento para permitir a subida e a descida da cortina.
+
