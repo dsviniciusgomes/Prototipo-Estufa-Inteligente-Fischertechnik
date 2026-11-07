@@ -50,3 +50,4 @@ Recomenda-se a leitura do material como referência, especialmente para compreen
 
 Atenção: o eixo de rotação conectado ao motor deve possuir um pedaço de plástico fixado, funcionando como um mecanismo de enrolamento para permitir a subida e a descida da cortina.
 
+![Eixo e plastico](imagens/eixo-plastico.jpeg)
