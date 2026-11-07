@@ -50,7 +50,7 @@ Certifique que todos os componentes estão funcionando individualmente:
 - Verifique se os cabos duplos (cod 203847) estão transmitindo corrente, por exemplo, ligando um LED com suporte de bateria;
 - Verifique se a controladora BT Smart (cod. 161944) está ligando através de cabos duplos com o suporte de bateria;
 - Verifique se o motor 9V (cod. 137096) está ligando através de cabos duplos com o suporte de bateria;
-- O fototransitor (cod 36134) possui indicação da polaridade, sendo o lado vermelho para polo positivo e o branco para o polo negativo. Esse componente não possui um teste individual. Mas se quiser garantir que está transmitindo corretamente, verifique a seção "testar Fototransitor". 
+- O fototransitor (cod 36134) possui indicação da polaridade, sendo o lado vermelho para polo positivo e o branco para o polo negativo. Esse componente não possui um teste individual. Mas se quiser garantir que está transmitindo corretamente, verifique a seção "Testar fototransitor". 
 
 
 ## Estrutura
