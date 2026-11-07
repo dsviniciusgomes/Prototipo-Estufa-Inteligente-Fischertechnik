@@ -42,6 +42,17 @@ Pode ser que seja necessário instalar drivers para conexão USB com notebook/co
 - [Driver USB para Windows 64 bits (MSI, 6 MB)](https://www.fischertechnik.de/-/media/fischertechnik/fite/service/downloads/robotics/usbdriverwin64.ashx)
 - [Driver USB (ZIP, 11 MB)](https://www.fischertechnik.de/-/media/fischertechnik/fite/service/downloads/robotics/bt-smart-controller/document/usbdriverbtsmart-all-ft-controller-2017-06-16.ashx)
 
+## Antes de implementar o protótipo
+
+Certifique que todos os componentes estão funcionando individualmente:
+- Certifique que a pilha de 9V possui carga;
+- Encaixe a pilha de 9V no suporte de bateria (cod 135719);
+- Verifique se os cabos duplos (cod 203847) estão transmitindo corrente, por exemplo, ligando um LED com suporte de bateria;
+- Verifique se a controladora BT Smart (cod. 161944) está ligando através de cabos duplos com o suporte de bateria;
+- Verifique se o motor 9V (cod. 137096) está ligando através de cabos duplos com o suporte de bateria;
+- O fototransitor (cod 36134) possui indicação da polaridade, sendo o lado vermelho para polo positivo e o branco para o polo negativo. Esse componente não possui um teste individual. Mas se quiser garantir que está transmitindo corretamente, verifique a seção "testar Fototransitor". 
+
+
 ## Estrutura
 
 A imagem do rascunho apresenta uma estrutura retangular construída com peças de montagem da Coleção Brink Robótica, inspirada no livro Ensino Fundamental – 4º ano, página 50 (Projeto Estufa), ISBN nº 978-65-87758-01-5.
