@@ -9,6 +9,13 @@ Um LED simula a incidência de luz solar, enquanto um fototransistor identifica 
 ## Observações
 O projeto foi desenvolvido com os componentes Fischertechnik disponíveis. Como não tínhamos um sensor de temperatura, optamos pelo uso do fototransistor para simular o controle da luminosidade. Ressaltamos que, em uma estufa inteligente real, o monitoramento da temperatura também é essencial.
 
+## O que o protótipo faz?
+O programa desevolvido no Robo Pro Coding, quando está em execução, atribui a uma variável chamada "estado" o valor inicial 0, semânticamente, signfica que a cortina está abaixada. Após isso, o programa entra em looping infinito e alterna o valor da variável "estado" para 1 se for capturado luminosidade, o que signfica que a cortina está levantada.
+
+Caso o fotransistor identifique luminosidade, aguarda 3 segundos e verifica se ainda está incidindo luz. Caso positivo, o motor é acionado no sentido horário girando o eixo de rotação durante 4 segundos a uma velocidade de 300 em unidades definidas no código. Após o tempo, o motor é parado. 
+
+Caso o fotransistor não identifique luminosidade, aguarda 3 segundos e verifica se ainda não está incidindo luz. Caso positivo, o motor é acionado no sentido anti horário girando o eixo de rotação durante 4 segundos a uma velocidade de 300 em undiades definidas no código. Após o tempo, o motor é parado. 
+
 ## Componentes necessários
 
 - BT Smart Controller - [código 161944](https://www.fischertechnik.de/en/products/spare-parts/electronics/161944-bt-smart-controller-red) (Qntd: 1) 
