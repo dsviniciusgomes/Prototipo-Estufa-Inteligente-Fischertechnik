@@ -52,6 +52,16 @@ Certifique que todos os componentes estão funcionando individualmente:
 - Verifique se o motor 9V (cod. 137096) está ligando através de cabos duplos com o suporte de bateria;
 - O fototransitor (cod 36134) possui indicação da polaridade, sendo o lado vermelho para polo positivo e o branco para o polo negativo. Esse componente não possui um teste individual. Mas se quiser garantir que está transmitindo corretamente, verifique a seção "Testar fototransitor". 
 
+## Como implementar o projeto
+*Versão utilizada nesse projeto foi 6.5.4 do Robo Pro Coding, se estiver com versão posterior ou inferior, pode ser que alguns passos estejam diferentes.
+
+- Instale o Robo Pro Coding no smartphone (Android ou iOS) ou notebook/laptop (Windows, MAC ou Linux);
+- Baixe o arquivo Estufa.ft disponível neste repositório;
+- Abra o programa, clique em Importar Projeto > Selecione "Local" > Próximo > Clique em Procurar e encontre o arquivo Estufa.ft; 
+- Conecte a controladora BT Smart (cod. 161944) através de cabos duplos com o suporte de bateria (cod 135719) e ligue a placa;
+- Conecte o fototransistor (cod 36134) através de cabos duplos (cod 203847), respeitando a polaridade, no entrada I1 da placa BT Smart Controler (cod. 161944);
+- Conecte o motor 9V (cod. 137096) através de cabos duplos (cod 203847), na saída M2 da placa BT Smart Controler (cod. 161944);
+
 
 ## Estrutura
 
