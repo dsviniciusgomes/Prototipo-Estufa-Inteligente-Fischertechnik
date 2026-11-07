@@ -10,7 +10,7 @@ Um LED simula a incidência de luz solar, enquanto um fototransistor identifica 
 O projeto foi desenvolvido com os componentes Fischertechnik disponíveis. Como não tínhamos um sensor de temperatura, optamos pelo uso do fototransistor para simular o controle da luminosidade. Ressaltamos que, em uma estufa inteligente real, o monitoramento da temperatura também é essencial.
 
 ## O que o protótipo faz?
-O programa desevolvido no Robo Pro Coding, quando está em execução, atribui a uma variável chamada "estado" o valor inicial 0, semânticamente, signfica que a cortina está abaixada. Após isso, o programa entra em looping infinito e alterna o valor da variável "estado" para 1 se for capturado luminosidade, o que signfica que a cortina está levantada.
+O programa desenvolvido no Robo Pro Coding, quando está em execução, atribui a uma variável chamada "estado" o valor inicial 0, semanticamente, signfica que a cortina está abaixada. Após isso, o programa entra em looping infinito e alterna o valor da variável "estado" para 1 se for capturado luminosidade, o que signfica que a cortina está levantada.
 
 Caso o fotransistor identifique luminosidade, aguarda 3 segundos e verifica se ainda está incidindo luz. Caso positivo, o motor é acionado no sentido horário girando o eixo de rotação durante 4 segundos a uma velocidade de 300 em unidades definidas no código. Após o tempo, o motor é parado. 
 
@@ -27,3 +27,15 @@ Caso o fotransistor não identifique luminosidade, aguarda 3 segundos e verifica
 - Fonte de luz ou led para ligar/desligar na direção do Fototransistor (Qntd: 1)
 - Notebook/Laptop/Computador (MAC, Windows ou Linux) ou celular/smartphone (Android ou iOS) (Qntd: 1) 
 - Cabo usb para BT Smart Controller ou conexão bluetooth do Notebook/Smartphone (Qntd: 1) 
+
+## Software necessário
+
+- Robo Pro Coding: [Windows](https://apps.microsoft.com/store/detail/robo-pro-coding/9MXPK52R734C?hl=de-de&gl=de&activetab=pivot%3Aoverviewtab), [MAC/iOS](https://apps.apple.com/us/app/robo-pro-coding/id1569643514), [Linux](https://update.fischertechnik-cloud.com/repository/ft-roboprocoding-public/ft-roboprocoding-linux-STABLE.zip), [Android](https://play.google.com/store/apps/details?id=eu.beemo.roboprocoding&pli=1)
+
+## Drivers/Utilitários
+
+Pode ser que seja necessário instalar drivers para conexão USB com notebook/computador pessoal.
+
+- [Driver USB para Windows 32 bits (MSI, 6 MB)](https://www.fischertechnik.de/-/media/fischertechnik/fite/service/downloads/robotics/usbdriverwin32.ashx)
+- [Driver USB para Windows 64 bits (MSI, 6 MB)](https://www.fischertechnik.de/-/media/fischertechnik/fite/service/downloads/robotics/usbdriverwin64.ashx)
+- [Driver USB (ZIP, 11 MB)](https://www.fischertechnik.de/-/media/fischertechnik/fite/service/downloads/robotics/bt-smart-controller/document/usbdriverbtsmart-all-ft-controller-2017-06-16.ashx)
