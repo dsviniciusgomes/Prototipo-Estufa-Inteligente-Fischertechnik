@@ -85,7 +85,7 @@ Para USB:
 ## Execução
 
 - Certifique que a cortina está abaixada antes de executar o código;
-- Após isso, selecione a opção "Executar"/"Run" do Robo Pro Coding e aguarde a mensagem identifcando que a aplicação foi inciada. 
+- Após isso, selecione a opção "Executar"/"Run" do Robo Pro Coding e aguarde a mensagem mostrando que a aplicação foi iniciada; 
 - Para que a cortina suba, deve ligar luz sobre o fototransistor;
 - Para que a cortina abixe, deve desligar a luz sobre o fototransistor;
 
@@ -100,4 +100,3 @@ Recomenda-se a leitura do material como referência, especialmente para compreen
 Adaptamos também uma peça [(código - 035059)](https://www.fischertechnik.de/en/products/spare-parts/other/35059-x-strut-106-yellow) fixando na parte inferior ao fim da persiana de plástico para realizar uma força peso e facilitar a descida/subida da cortina.
 
 ## Orientações
-
