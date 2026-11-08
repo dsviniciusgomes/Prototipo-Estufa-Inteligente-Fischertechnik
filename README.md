@@ -55,7 +55,7 @@ Certifique que todos os componentes estão funcionando individualmente:
 - Verifique se os cabos duplos (cod 203847) estão transmitindo corrente, por exemplo, ligando um LED com suporte de bateria;
 - Verifique se a controladora BT Smart (cod. 161944) está ligando através de cabos duplos com o suporte de bateria;
 - Verifique se o motor 9V (cod. 137096) está ligando através de cabos duplos com o suporte de bateria;
-- O fototransitor (cod 36134) possui indicação da polaridade, sendo o lado vermelho para polo positivo e o branco para o polo negativo. Esse componente não possui um teste individual. Mas se quiser garantir que está transmitindo corretamente, verifique a seção "Testar fototransitor". 
+- O fototransitor (cod 36134) possui indicação da polaridade, sendo o lado vermelho para polo positivo e o branco para o polo negativo. Esse componente não possui um teste individual. 
 
 ## Como implementar o projeto
 *Versão utilizada nesse projeto foi 6.5.4 do Robo Pro Coding, se estiver com versão posterior ou inferior, pode ser que alguns passos estejam diferentes.
@@ -100,3 +100,6 @@ Recomenda-se a leitura do material como referência, especialmente para compreen
 Adaptamos também uma peça [(código - 035059)](https://www.fischertechnik.de/en/products/spare-parts/other/35059-x-strut-106-yellow) fixando na parte inferior ao fim da persiana de plástico para realizar uma força peso e facilitar a descida/subida da cortina.
 
 ## Orientações
+- As velocidades do motor e tempo de subida/descida podem e devem ser ajustada no seu projeto;
+- O fototransistor é um componente bem sensível, então certifique que a luz que incide sobre essa peça esteja adequada, se necessário, troque por outra fonte;
+- Observe atentamente a polaridade do fototransistor para que funcione de forma correta.
