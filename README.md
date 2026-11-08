@@ -67,7 +67,27 @@ Certifique que todos os componentes estão funcionando individualmente:
 - Conecte a controladora BT Smart (cod. 161944) através de cabos duplos com o suporte de bateria (cod 135719) e ligue a placa;
 - Conecte o fototransistor (cod 36134) através de cabos duplos (cod 203847), respeitando a polaridade, no entrada I1 da placa BT Smart Controler (cod. 161944);
 - Conecte o motor 9V (cod. 137096) através de cabos duplos (cod 203847), na saída M2 da placa BT Smart Controler (cod. 161944);
+- No Robo Pro Coding, com o código aparecendo através da importação do projeto Estufa.ft, clique em "Conectar o controlador" botão do lado superior direito onde possui símbolo de modem Wire-less.
 
+Para Blueetoh: 
+- Ative o Bluetooth do celular ou laptop;
+- Selecione a opção "Bluetooth";
+- Pressione e segure o botão vermelho (Select) da controladora por aproximadamente 3 segundos, até que o LED azul comece a piscar rapidamente;
+- Após a conexão, o LED azul ficará aceso continuamente;
+
+Atenção: não tente parear a controladora diretamente pelas configurações Bluetooth do celular ou laptop. A conexão deve ser realizada diretamente pelo ROBO Pro Coding. No Android, também é necessário conceder as permissões de Bluetooth e localização ao aplicativo e manter a localização do sistema ativada.
+
+Para USB:
+- Certifique que o driver USB está instalado, para detalhes nessa etapa verifique [aqui](https://doc.fischertechnik-cloud.com/de/controller/bt-smart/bt-smart-controller#c5956);
+- Clique em conectar e aguarde o reconhecimento da porta USB Serial Port;
+- Selecione a porta identificada para concluir a conexão;
+
+## Execução
+
+- Certifique que a cortina está abaixada antes de executar o código;
+- Após isso, selecione a opção "Executar"/"Run" do Robo Pro Coding e aguarde a mensagem identifcando que a aplicação foi inciada. 
+- Para que a cortina suba, deve ligar luz sobre o fototransistor;
+- Para que a cortina abixe, deve desligar a luz sobre o fototransistor;
 
 ## Estrutura
 
