@@ -20,6 +20,9 @@ Caso o fotransistor identifique luminosidade, aguarda 3 segundos e verifica se a
 
 Caso o fotransistor não identifique luminosidade, aguarda 3 segundos e verifica se ainda não está incidindo luz. Caso positivo, o motor é acionado no sentido anti horário girando o eixo de rotação durante 4 segundos a uma velocidade de 300 em undiades definidas no código. Após o tempo, o motor é parado. 
 
+## Código em programação gráfica
+![codigo](imagens/programação%20gráfica.png)
+
 ## Componentes necessários
 
 - BT Smart Controller - [código 161944](https://www.fischertechnik.de/en/products/spare-parts/electronics/161944-bt-smart-controller-red) (Qntd: 1) 
