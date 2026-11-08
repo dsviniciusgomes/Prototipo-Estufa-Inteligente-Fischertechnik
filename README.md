@@ -62,7 +62,7 @@ Certifique que todos os componentes estão funcionando individualmente:
 ** A controladora não possui memória interna para armazenamento do código do projeto. Portanto, é necessário utilizar o software Robo Pro Coding, por meio de um celular ou laptop, mantendo o projeto em execução e conectado à placa via Bluetooth ou cabo USB para garantir seu funcionamento correto.
 
 - Instale o Robo Pro Coding no smartphone (Android ou iOS) ou notebook/laptop (Windows, MAC ou Linux);
-- Baixe o arquivo Estufa.ft disponível neste repositório;
+- Baixe o arquivo Estufa.ft disponível deste repositório;
 - Abra o programa, clique em Importar Projeto > Selecione "Local" > Próximo > Clique em Procurar e encontre o arquivo Estufa.ft; 
 - Conecte a controladora BT Smart (cod. 161944) através de cabos duplos com o suporte de bateria (cod 135719) e ligue a placa;
 - Conecte o fototransistor (cod 36134) através de cabos duplos (cod 203847), respeitando a polaridade, no entrada I1 da placa BT Smart Controler (cod. 161944);
