@@ -59,6 +59,7 @@ Certifique que todos os componentes estão funcionando individualmente:
 
 ## Como implementar o projeto
 *Versão utilizada nesse projeto foi 6.5.4 do Robo Pro Coding, se estiver com versão posterior ou inferior, pode ser que alguns passos estejam diferentes.
+** A controladora não possui memória interna para armazenamento do código do projeto. Portanto, é necessário utilizar o software Robo Pro Coding, por meio de um celular ou laptop, mantendo o projeto em execução e conectado à placa via Bluetooth ou cabo USB para garantir seu funcionamento correto.
 
 - Instale o Robo Pro Coding no smartphone (Android ou iOS) ou notebook/laptop (Windows, MAC ou Linux);
 - Baixe o arquivo Estufa.ft disponível neste repositório;
