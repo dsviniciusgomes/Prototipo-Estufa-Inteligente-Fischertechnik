@@ -103,3 +103,18 @@ Adaptamos também uma peça [(código - 035059)](https://www.fischertechnik.de/e
 - As velocidades do motor e tempo de subida/descida podem e devem ser ajustada no seu projeto;
 - O fototransistor é um componente bem sensível, então certifique que a luz que incide sobre essa peça esteja adequada, se necessário, troque por outra fonte;
 - Observe atentamente a polaridade do fototransistor para que funcione de forma correta.
+
+## Possíveis erros
+Durante o desenvolvimento do projeto, identifiquei comportamentos diferentes e não esperados na execução dos comandos de acionamento e parada do motor quando os blocos do ROBO Pro Coding estavam reduzidos.
+
+Ao expandir os blocos, o funcionamento ocorreu conforme esperado. Por esse motivo, optei por manter os blocos expandidos, garantindo maior previsibilidade na execução do projeto.
+
+- Bloco reduzido
+
+![bloco reduzido](imagens/bloco%20reduzido.png)
+
+- Bloco expandido
+
+![bloco expandido](imagens/bloco%20expandido.png)
+
+Compartilho essa observação como um possível comportamento a ser investigado no software.
