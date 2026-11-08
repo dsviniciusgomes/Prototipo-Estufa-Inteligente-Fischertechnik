@@ -87,7 +87,7 @@ Para USB:
 - Certifique que a cortina está abaixada antes de executar o código;
 - Após isso, selecione a opção "Executar"/"Run" do Robo Pro Coding e aguarde a mensagem mostrando que a aplicação foi iniciada; 
 - Para que a cortina suba, deve ligar luz sobre o fototransistor;
-- Para que a cortina abixe, deve desligar a luz sobre o fototransistor;
+- Para que a cortina abaixe, deve desligar a luz sobre o fototransistor;
 
 ## Estrutura
 
